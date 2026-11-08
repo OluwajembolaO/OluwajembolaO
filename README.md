@@ -22,12 +22,17 @@ Origin: Brooklyn, NY
 - 🧩 LeetCode and puzzles
 - 🎮 Experimenting in Roblox Studio
 - 🙏 Bench press 225
-
+- 
+### 🎒 Inventory (featured projects)
+| Item | What it does | Built with |
+|---|---|---|
+| [InspiraMath](https://github.com/OluwajembolaO/InspiraMath) | Game-based math learning platform (🥉 3rd place, BAM Showcase) | React, Azure OpenAI |
+| Mental Bunnies | 24/7 AI mental health support platform (🥇 1st place, BAM Hackathon) | Python, HTML/CSS, JavaScript |
+| [AIcademia](https://github.com/OluwajembolaO/AIcademia) | AI learning assistant (led a team of 4) | Flask, Python |
+| [Botley_Crue](https://github.com/OluwajembolaO/Botley_Crue) | Robot autonomous navigation (PID, odometry) | Java |
 
 ## 🛠️ Skill Set
 ### ⚙️ Equipped skills
-### ⚙️ Equipped skills
-
 <table>
   <tr>
     <td><b>Languages</b></td>
