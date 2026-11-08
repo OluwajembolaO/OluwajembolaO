@@ -1,9 +1,9 @@
 ## ▶ Player: Jem (Oluwajembola Orioke)
 
-CLASS: Aspiring Software Engineer
-LEVEL: Freshman | CS @ Hunter College (Daedalus Honors)
-ARCHETYPE: Full-Stack Web & applied AI
-Origin: Brooklyn, NY
+CLASS: Aspiring Software Engineer\
+LEVEL: Freshman | CS @ Hunter College (Daedalus Honors)\
+ARCHETYPE: Full-Stack Web & applied AI\
+Origin: Brooklyn, NY\
 
 
 ### 🗡️ Current quest
